@@ -148,7 +148,7 @@
       "name": "Marvel's Agents of S.H.I.E.L.D.",
       "permalink": "marvel-s-agents-of-s-h-i-e-l-d",
       "start_date": "2020-2-01",
-      "end_date": null,
+      "end_date": "12",
       "country": "US",
       "network": "ABC",
       "status": "Running",
@@ -172,7 +172,7 @@
       "start_date": "2020-2-01",
       "end_date": "1",
       "country": "JP",
-      "network": "MBS",
+      "network": "ABC",
       "status": "Running",
       "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/52439.jpg"
     },
@@ -220,5 +220,44 @@
       "status": "Running",
       "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/36210.jpg"
     }
+  ],
+  "channels": [
+    {
+      "id": 0,
+      "name": "HBO",
+      
+    },
+   {
+      "id": 1,
+      "name": "The CW",
+      
+    },
+   {
+      "id": 2,
+      "name": "Netflix",
+      
+    },
+   {
+      "id": 3,
+      "name": "BBC One",
+      
+    },
+   {
+      "id": 4,
+      "name": "FOX",
+      
+    },
+   {
+      "id": 5,
+      "name": "CBS",
+      
+    },
+   {
+      "id": 6,
+      "name": "ABC",
+      
+    },
+  
+  
   ]
 }
