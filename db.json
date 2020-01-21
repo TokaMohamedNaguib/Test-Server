@@ -1,6 +1,20 @@
 {
+ 
   "list": [
-    {
+     {"The-CW": {
+    "00:00-am": [],
+    "01:00-am": [],
+    "02:00-am": [],
+    "03:00-am": [],
+    "04:00-am": [],
+    "05:00-am": [],
+    "06:00-am": [],
+    "07:00-am": [],
+    "08:00-am": [],
+    "09:00-am": [],
+    "10:00-am": [],
+    "11:00-am": [],
+    "12:00-pm": [{
       "id": 35624,
       "name": "The Flash",
       "permalink": "the-flash",
@@ -10,19 +24,8 @@
       "network": "The CW",
       "status": "Running",
       "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/35624.jpg"
-    },
-    {
-      "id": 23455,
-      "name": "Game of Thrones",
-      "permalink": "game-of-thrones",
-      "start_date": "2020-02-01",
-      "end_date": "12:00 pm",
-      "country": "US",
-      "network": "HBO",
-      "status": "Ended",
-      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/23455.jpg"
-    },
-    {
+    }],
+    "13:00-pm": [{
       "id": 29560,
       "name": "Arrow",
       "permalink": "arrow",
@@ -32,8 +35,8 @@
       "network": "The CW",
       "status": "Running",
       "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/29560.jpg"
-    },
-    {
+    }],
+    "14:00-pm": [ {
       "id": 43234,
       "name": "Supergirl",
       "permalink": "supergirl",
@@ -43,8 +46,31 @@
       "network": "The CW",
       "status": "Running",
       "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/43234.jpg"
-    },
-    {
+    }],
+    "15:00-pm": [],
+    "16:00-pm": [],
+    "17:00-pm": [],
+    "18:00-pm": [],
+    "19:00-pm": [],
+    "20:00-pm": [],
+    "21:00-pm": [],
+    "22:00-pm": [],
+    "23:00-pm": []
+  }},
+    {"Netflix": {
+    "00:00-am": [],
+    "01:00-am": [],
+    "02:00-am": [],
+    "03:00-am": [],
+    "04:00-am": [],
+    "05:00-am": [],
+    "06:00-am": [],
+    "07:00-am": [],
+    "08:00-am": [],
+    "09:00-am": [],
+    "10:00-am": [],
+    "11:00-am": [],
+    "12:00-pm": [ {
       "id": 43467,
       "name": "Lucifer",
       "permalink": "lucifer",
@@ -54,41 +80,8 @@
       "network": "Netflix",
       "status": "Running",
       "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/43467.com"
-    },
-    {
-      "id": 46692,
-      "name": "DC's Legends of Tomorrow",
-      "permalink": "dcs-legends-of-tomorrow",
-      "start_date": "2020-02-01",
-      "end_date": "12:00 pm",
-      "country": "US",
-      "network": "BBC One",
-      "status": "Running",
-      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/46692.jpg"
-    },
-    {
-      "id": 24010,
-      "name": "The Walking Dead",
-      "permalink": "the-walking-dead",
-      "start_date": "2020-02-01",
-      "end_date": "13:00 pm",
-      "country": "US",
-      "network": "BBC One",
-      "status": "Running",
-      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/24010.jpg"
-    },
-    {
-      "id": 47145,
-      "name": "Dragon Ball Super",
-      "permalink": "dragon-ball-super",
-      "start_date": "2020-02-01",
-      "end_date": "13:00 pm",
-      "country": "JP",
-      "network": "HBO",
-      "status": "Ended",
-      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/47145."
-    },
-    {
+    }],
+    "13:00-pm": [{
       "id": 46778,
       "name": "Stranger Things",
       "permalink": "montauk",
@@ -98,63 +91,8 @@
       "network": "Netflix",
       "status": "Running",
       "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/46778.jpg"
-    },
-    {
-      "id": 33514,
-      "name": "The 100",
-      "permalink": "the-100",
-      "start_date": "2020-02-01",
-      "end_date": "12:00 pm",
-      "country": "US",
-      "network": "CBS",
-      "status": "Running",
-      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/33514.jpg"
-    },
-    {
-      "id": 22410,
-      "name": "Sherlock",
-      "permalink": "sherlock",
-      "start_date": "2020-02-01",
-      "end_date": "14:00 pm",
-      "country": "UK",
-      "network": "BBC One",
-      "status": "To Be Determined",
-      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/22410.jpg"
-    },
-    {
-      "id": 5348,
-      "name": "Supernatural",
-      "permalink": "supernatural",
-      "start_date": "2020-02-01",
-      "end_date": "13:00 pm",
-      "country": "US",
-      "network": "CBS",
-      "status": "Running",
-      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/5348.jpg"
-    },
-    {
-      "id": 8362,
-      "name": "The Big Bang Theory",
-      "permalink": "the-big-bang-theory",
-      "start_date": "2020-02-01",
-      "end_date": "14:00 pm",
-      "country": "US",
-      "network": "CBS",
-      "status": "Ended",
-      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/8362.jpg"
-    },
-    {
-      "id": 31452,
-      "name": "Marvel's Agents of S.H.I.E.L.D.",
-      "permalink": "marvel-s-agents-of-s-h-i-e-l-d",
-      "start_date": "2020-02-01",
-      "end_date": "12:00 pm",
-      "country": "US",
-      "network": "ABC",
-      "status": "Running",
-      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/31452.jpg"
-    },
-    {
+    }],
+    "14:00-pm": [   {
       "id": 37444,
       "name": "Marvel's Daredevil",
       "permalink": "daredevil",
@@ -164,19 +102,144 @@
       "network": "Netflix",
       "status": "Ended",
       "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/37444.jpg"
-    },
-    {
-      "id": 52439,
-      "name": "Boku no Hero Academia",
-      "permalink": "boku-no-hero-academia",
+    }],
+    "15:00-pm": [],
+    "16:00-pm": [],
+    "17:00-pm": [],
+    "18:00-pm": [],
+    "19:00-pm": [],
+    "20:00-pm": [],
+    "21:00-pm": [],
+    "22:00-pm": [],
+    "23:00-pm": []
+  }},
+    {"BBC-One": {
+    "00:00-am": [],
+    "01:00-am": [],
+    "02:00-am": [],
+    "03:00-am": [],
+    "04:00-am": [],
+    "05:00-am": [],
+    "06:00-am": [],
+    "07:00-am": [],
+    "08:00-am": [],
+    "09:00-am": [],
+    "10:00-am": [],
+    "11:00-am": [],
+    "12:00-pm": [ {
+      "id": 46692,
+      "name": "DC's Legends of Tomorrow",
+      "permalink": "dcs-legends-of-tomorrow",
+      "start_date": "2020-02-01",
+      "end_date": "12:00 pm",
+      "country": "US",
+      "network": "BBC One",
+      "status": "Running",
+      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/46692.jpg"
+    }],
+    "13:00-pm": [ {
+      "id": 24010,
+      "name": "The Walking Dead",
+      "permalink": "the-walking-dead",
+      "start_date": "2020-02-01",
+      "end_date": "13:00 pm",
+      "country": "US",
+      "network": "BBC One",
+      "status": "Running",
+      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/24010.jpg"
+    }],
+    "14:00-pm": [{
+      "id": 22410,
+      "name": "Sherlock",
+      "permalink": "sherlock",
+      "start_date": "2020-02-01",
+      "end_date": "14:00 pm",
+      "country": "UK",
+      "network": "BBC One",
+      "status": "To Be Determined",
+      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/22410.jpg"
+    }],
+    "15:00-pm": [],
+    "16:00-pm": [],
+    "17:00-pm": [],
+    "18:00-pm": [],
+    "19:00-pm": [],
+    "20:00-pm": [],
+    "21:00-pm": [],
+    "22:00-pm": [],
+    "23:00-pm": []
+  }},
+    {"HBO": {
+    "00:00-am": [],
+    "01:00-am": [],
+    "02:00-am": [],
+    "03:00-am": [],
+    "04:00-am": [],
+    "05:00-am": [],
+    "06:00-am": [],
+    "07:00-am": [],
+    "08:00-am": [],
+    "09:00-am": [],
+    "10:00-am": [],
+    "11:00-am": [],
+    "12:00-pm": [ {
+      "id": 23455,
+      "name": "Game of Thrones",
+      "permalink": "game-of-thrones",
+      "start_date": "2020-02-01",
+      "end_date": "12:00 pm",
+      "country": "US",
+      "network": "HBO",
+      "status": "Ended",
+      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/23455.jpg"
+    }],
+    "13:00-pm": [ {
+      "id": 47145,
+      "name": "Dragon Ball Super",
+      "permalink": "dragon-ball-super",
       "start_date": "2020-02-01",
       "end_date": "13:00 pm",
       "country": "JP",
-      "network": "ABC",
+      "network": "HBO",
+      "status": "Ended",
+      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/47145."
+    }],
+    "14:00-pm": [{
+      "id": 36210,
+      "name": "Westworld",
+      "permalink": "westworld",
+      "start_date": "2020-02-01",
+      "end_date": "14:00 pm",
+      "country": "US",
+      "network": "HBO",
       "status": "Running",
-      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/52439.jpg"
-    },
-    {
+      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/36210.jpg"
+    }],
+    "15:00-pm": [],
+    "16:00-pm": [],
+    "17:00-pm": [],
+    "18:00-pm": [],
+    "19:00-pm": [],
+    "20:00-pm": [],
+    "21:00-pm": [],
+    "22:00-pm": [],
+    "23:00-pm": []
+  }},
+  
+   { "FOX": {
+    "00:00-am": [],
+    "01:00-am": [],
+    "02:00-am": [],
+    "03:00-am": [],
+    "04:00-am": [],
+    "05:00-am": [],
+    "06:00-am": [],
+    "07:00-am": [],
+    "08:00-am": [],
+    "09:00-am": [],
+    "10:00-am": [],
+    "11:00-am": [],
+    "12:00-pm": [ {
       "id": 29671,
       "name": "Gotham",
       "permalink": "gotham",
@@ -186,18 +249,19 @@
       "network": "FOX",
       "status": "Ended",
       "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/29671.png"
-    },
-    {
+    }],
+    "13:00-pm": [{
       "id": 29977,
       "name": "Vikings",
       "permalink": "vikings",
-      "start_date":"2020-02-01",
+      "start_date": "2020-02-01",
       "end_date": "13:00 pm",
       "country": "CA",
       "network": "FOX",
       "status": "Running",
       "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/29977.jpg"
-    },
+    }],
+    "14:00-pm": [
     {
       "id": 49269,
       "name": "Miraculous LadyBug",
@@ -208,58 +272,150 @@
       "network": "FOX",
       "status": "Running",
       "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/49269.jpg"
-    },
-    {
-      "id": 36210,
-      "name": "Westworld",
-      "permalink": "westworld",
+    }],
+    "15:00-pm": [],
+    "16:00-pm": [],
+    "17:00-pm": [],
+    "18:00-pm": [],
+    "19:00-pm": [],
+    "20:00-pm": [],
+    "21:00-pm": [],
+    "22:00-pm": [],
+    "23:00-pm": []
+  }},
+    {"CBS": {
+    "00:00-am": [],
+    "01:00-am": [],
+    "02:00-am": [],
+    "03:00-am": [],
+    "04:00-am": [],
+    "05:00-am": [],
+    "06:00-am": [],
+    "07:00-am": [],
+    "08:00-am": [],
+    "09:00-am": [],
+    "10:00-am": [],
+    "11:00-am": [],
+    "12:00-pm": [ {
+      "id": 33514,
+      "name": "The 100",
+      "permalink": "the-100",
+      "start_date": "2020-02-01",
+      "end_date": "12:00 pm",
+      "country": "US",
+      "network": "CBS",
+      "status": "Running",
+      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/33514.jpg"
+    }],
+    "13:00-pm": [  {
+      "id": 5348,
+      "name": "Supernatural",
+      "permalink": "supernatural",
+      "start_date": "2020-02-01",
+      "end_date": "13:00 pm",
+      "country": "US",
+      "network": "CBS",
+      "status": "Running",
+      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/5348.jpg"
+    }],
+    "14:00-pm": [{
+      "id": 8362,
+      "name": "The Big Bang Theory",
+      "permalink": "the-big-bang-theory",
       "start_date": "2020-02-01",
       "end_date": "14:00 pm",
       "country": "US",
-      "network": "HBO",
+      "network": "CBS",
+      "status": "Ended",
+      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/8362.jpg"
+    }],
+    "15:00-pm": [],
+    "16:00-pm": [],
+    "17:00-pm": [],
+    "18:00-pm": [],
+    "19:00-pm": [],
+    "20:00-pm": [],
+    "21:00-pm": [],
+    "22:00-pm": [],
+    "23:00-pm": []
+  }},
+  {  "ABC": {
+    "00:00-am": [],
+    "01:00-am": [],
+    "02:00-am": [],
+    "03:00-am": [],
+    "04:00-am": [],
+    "05:00-am": [],
+    "06:00-am": [],
+    "07:00-am": [],
+    "08:00-am": [],
+    "09:00-am": [],
+    "10:00-am": [],
+    "11:00-am": [],
+    "12:00-pm": [ {
+      "id": 31452,
+      "name": "Marvel's Agents of S.H.I.E.L.D.",
+      "permalink": "marvel-s-agents-of-s-h-i-e-l-d",
+      "start_date": "2020-02-01",
+      "end_date": "12:00 pm",
+      "country": "US",
+      "network": "ABC",
       "status": "Running",
-      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/36210.jpg"
-    }
-  ], 
-  
+      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/31452.jpg"
+    }],
+    "13:00-pm": [{
+      "id": 52439,
+      "name": "Boku no Hero Academia",
+      "permalink": "boku-no-hero-academia",
+      "start_date": "2020-02-01",
+      "end_date": "13:00 pm",
+      "country": "JP",
+      "network": "ABC",
+      "status": "Running",
+      "image_thumbnail_path": "https://static.episodate.com/images/tv-show/thumbnail/52439.jpg"
+    }],
+    "14:00-pm": [],
+    "15:00-pm": [],
+    "16:00-pm": [],
+    "17:00-pm": [],
+    "18:00-pm": [],
+    "19:00-pm": [],
+    "20:00-pm": [],
+    "21:00-pm": [],
+    "22:00-pm": [],
+    "23:00-pm": []
+  }
+}
+    
+    ],
   "channels": [
     {
       "id": 0,
       "name": "HBO"
-      
     },
-   {
+    {
       "id": 1,
       "name": "The CW"
-      
     },
-   {
+    {
       "id": 2,
       "name": "Netflix"
-      
     },
-   {
+    {
       "id": 3,
       "name": "BBC One"
-      
     },
-   {
+    {
       "id": 4,
       "name": "FOX"
-      
     },
-   {
+    {
       "id": 5,
       "name": "CBS"
-      
     },
-   {
+    {
       "id": 6,
       "name": "ABC"
-      
     }
-  
-  
   ]
- 
 }
